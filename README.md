@@ -22,10 +22,7 @@
   <img align="center" alt="Leo-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Leo-AWS" height="40" width="40" src="https://imgur.com/f3b7uly.png" alt="c++">
   <img align="center" alt="Leo-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Leo-Canva" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
- <img align="center" alt="Leo-Photoshop" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-line.svg">
- <img align="center" alt="Leo-Markdown" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/markdown/markdown-original.svg">
-<img align="center" alt="Leo-NPM" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="Leo-Canva" height="40" width="40" src="https://imgur.com/fnn6xC4">
 </div>
   
  
